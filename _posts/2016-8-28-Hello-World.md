@@ -11,7 +11,7 @@ Even though there was only one lecture last week, we started getting into the ma
 
 # What's in your way?
 
-Although the Collatz Conjecture seems rather simple, I think the biggest thing that is in my way is implementing an efficient and complete solution. We discussed caching for previously computed sequences, in order to prevent from making repetitive computations. Additionally, Professor Fraij mentioned in class that the test program is not very helpful in leading to figure out the problems with your implementation. Additionally, I'll also have to learn to use a bunch of new development and testing tools, which will be a (rewarding) challenge. 
+Although the Collatz Conjecture seems rather simple, I think the biggest thing that is in my way is implementing an efficient and complete solution. We discussed caching for previously computed sequences, in order to prevent from making repetitive computations. Additionally, Professor Fraij mentioned in class that the test program is not very helpful in leading to figure out the problems with your implementation. I'll also have to learn to use a bunch of new development and testing tools, which will be a (rewarding) challenge. 
 
 # What will you do next week?
 
@@ -19,7 +19,7 @@ Start working on the projects and familiarizing myself with the various technolo
 
 # My expectations/experience in the course
 
-The course seems very similar to CS371p, Object-Oriented Programming, which I am also taking this semester. I think it will be interesting to see how my experiences in this course differ from those in OOP. Based on the presentation of the course, I hope that this class will give me the opportuntiy to solidify my software development skills. Additionally, as this class does carry a writing flag, I hope it will also teach me to be a more effective communicator, especially relating to software development. 
+The course seems very similar to CS371p, Object-Oriented Programming, which I am also taking this semester. I think it will be interesting to see how my experiences in this course differ from those in OOP. Based on the presentation of the course, I hope that this class will give me the opportunity to solidify my software development skills. Additionally, as this class does carry a writing flag, I hope it will also teach me to be a more effective communicator, especially relating to software development. 
 
 # Tip of the week
 
