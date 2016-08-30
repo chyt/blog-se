@@ -7,20 +7,20 @@ Welcome to my first blog post!
 
 # What did you do this past week?
 
-During this week, I was exposed to C++ for the first time. I took this class as a way for me to solidify my skills in both C++ and Java, and it's been interesting learning about the ways in which they compare and contrast.
+Even though there was only one lecture last week, we started getting into the material right away. We focused on algorithm called the *Collatz Conjecture*, which takes in any integer and reduces it to 1. The algorithm builds a sequence of numbers and its implementation is rather trivial: if the given integer is odd, multiply it by 3 and add 1. If it is even, divide by two. Then repeat the steps on the next number(s) in the sequence, so on until we reach the number 1. 
 
 # What's in your way?
 
-From Professor Downing's approach to teaching this class, it seems that most of the students come from a Java background. However, my skills in Java are still quite undeveloped, as I come from a web and iOS development background. And while Objective-C (for iOS) is also an object oriented language based on C (and unrelatedly, NeXT), I'm sure there are plenty of differences to learn about.
+Although the Collatz Conjecture seems rather simple, I think the biggest thing that is in my way is implementing an efficient and complete solution. We discussed caching for previously computed sequences, in order to prevent from making repetitive computations. Additionally, Professor Fraij mentioned in class that the test program is not very helpful in leading to figure out the problems with your implementation. Additionally, I'll also have to learn to use a bunch of new development and testing tools, which will be a (rewarding) challenge. 
 
 # What will you do next week?
 
-Start working on the projects, familiarizing myself with different development technologies, and hopefully learn about the intricate details of object-oriented languages!
+Start working on the projects and familiarizing myself with the various technologies we're using, as well as the Collatz algorithm itself.
 
 # My expectations/experience in the course
 
-The class is taught in a format that I quite enjoy; it seems much more interactive and hands-on than traditional college courses, which are mostly lecture-based. However, while the presentation seems engaging, one of my concerns is regarding the actual content for the course. Based on the classes this week, it seems that much of the focus of the course seems, as Professor Downing stated, to prepare us to be employable once we graduate. As he admits, much of this is related to learning about the different tools in the software development process - from version control, to testing, deployment, etc. And while these tools are most definitely very useful (in fact, I use some of them regularly in my own projects), I hope that there will be a heavier focus on the actual concepts of object-orientated programming. 
+The course seems very similar to CS371p, Object-Oriented Programming, which I am also taking this semester. I think it will be interesting to see how my experiences in this course differ from those in OOP. Based on the presentation of the course, I hope that this class will give me the opportuntiy to solidify my software development skills. Additionally, as this class does carry a writing flag, I hope it will also teach me to be a more effective communicator, especially relating to software development. 
 
 # Tip of the week
 
-In my limited exposure to Java development, one of the projects I worked on was developing an IDE using the Java Eclipse API. In this project, I needed to override some of the native libraries in the API to incorporate some different behaviors. Here's the tip: you can use the Java *Instrumentation* library to override the class loader and replace specific library classes with your own, using something called a JavaAgent. Learn more [here](http://stackoverflow.com/questions/11898566/tutorials-about-javaagents/11898653#11898653).
+[Postman](https://www.getpostman.com/) is a great Google Chrome extension to test out web APIs as you are developing them. 
